@@ -1,0 +1,18 @@
+body{
+ background: url("carlie.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: white;
+ text-align:center;
+ /* font-family: 'Dosis', sans-serif; */
+font-family: 'Inconsolata', monospace;
+}
+.message{
+  border-radius:10%;
+  border:2px solid orange;
+
+
+}
+h3{
+  margin-top: 40px;
+}
